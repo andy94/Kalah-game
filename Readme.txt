@@ -1,6 +1,18 @@
     Ursache Andrei - 322CA - 24 aprilie 2015
-    
 
+	----------------------------------------------------------------------------
+	Proiect anul 2, semestrul al doilea, Paradigme de programare
+	Limbaj ales: Prolog
+	
+	############################     ATENTIE !!!    ############################
+	Temele sunt verificate pe VMChecker. Nu incercati sa copiati codul, deoarece
+	VMChecker verifica si sursele existente pe GitHub. In plus, fiecare tema va 
+	ajuta foarte mult daca incercati sa o realizati singuri. Asa ca, daca ai
+	ajuns aici pentru a cauta o tema, iti recomand calduros sa inchizi tab-ul cu 
+	GitHub si sa te apuci singur de ea. Spor!
+	----------------------------------------------------------------------------
+
+  
     Aspecte generale:
 	
 		In realizarea temei nu am utilizat recursivitatea explicita, ci de 
@@ -68,12 +80,5 @@
  
     (!!!)   Alte detalii referitoare la implementarea temei se gasesc in 
             fisierul sursa.
-
-
-    Nota personala:
-		
-		O tema interesanta si nesperat de simpla, pe care am facut-o din	
-	placere. La prima vedere, bonusul parea foarte complicat (sau mai bine 
-	spus foarte lung), dar pana la urma s-a dovedit sa nu fie chiar asa.
     
     Andrei Ursache
